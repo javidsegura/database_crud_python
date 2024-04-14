@@ -3,6 +3,7 @@
 For a given dataset apply database functions. All stored locally, navigate through commands. No SQL, no MySQL (RDBS).
 
 Schema: 
+<code>
 |
 |
 |---> READ              (1)
@@ -24,6 +25,7 @@ Schema:
   |->DELETE             (2.3)
     |-> COLUMN          (2.3.1)
     |-> ROW             (2.3.2)
+</code>
 
 
 <h6> COMMANDS </h6>
