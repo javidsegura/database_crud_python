@@ -28,7 +28,7 @@ Schema:
 </code>
 
 
-<h6> COMMANDS </h6>
+## COMMANDS 
 <ol>
 <li>  -end => terminate session </li>
 <li> -prior => go to the previous menu") </li>
