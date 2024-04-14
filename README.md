@@ -29,7 +29,9 @@ Schema:
 
 
 <h6> COMMANDS </h6>
-1. -end => terminate session 
-2. -prior => go to the previous menu")
-3. -home=> go to the homepage 
-4. -full => see full database
+<ol>
+<li>  -end => terminate session </li>
+<li> -prior => go to the previous menu") </li>
+<li> -home=> go to the homepage </li>
+<li> -full => see full database </li>
+ </ol>
