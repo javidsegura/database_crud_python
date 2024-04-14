@@ -30,8 +30,8 @@ Schema:
 
 ## COMMANDS 
 <ol>
-<li>  <code> -end </code> => terminate session </li>
-<li> <code> -prior</code> => go to the previous menu") </li>
-<li> <code> -home </code>=> go to the homepage </li>
-<li> <code>-full </code>=> see full database </li>
+<li>  <code>-end</code> => terminate session </li>
+<li> <code>-prior</code> => go to the previous menu") </li>
+<li> <code>-home</code>=> go to the homepage </li>
+<li> <code>-full</code>=> see full database </li>
  </ol>
