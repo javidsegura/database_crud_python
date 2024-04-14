@@ -1,6 +1,6 @@
 # LOCAL DATABASE
 
-For a given dataset apply database functions. All stored locally, navigate through commands. No SQL, no MySQL (RDBS).
+For a given dataset apply database functions. All stored locally, navigate through commands. No SQL, no MySQL (RDBMS).
 
 Schema: 
 <code>
@@ -30,8 +30,8 @@ Schema:
 
 ## COMMANDS 
 <ol>
-<li>  -end => terminate session </li>
-<li> -prior => go to the previous menu") </li>
-<li> -home=> go to the homepage </li>
-<li> -full => see full database </li>
+<li>  <code> -end </code> => terminate session </li>
+<li> <code> -prior</code> => go to the previous menu") </li>
+<li> <code> -home </code>=> go to the homepage </li>
+<li> <code>-full </code>=> see full database </li>
  </ol>
